@@ -9,6 +9,7 @@ import Testimonial from './components/testimonials/Testimonial'
 import Footer from './components/footer/Footer'
 import Contact from './components/contact/Contact'
 
+
 const App = () => {
   return (
     <>
@@ -18,6 +19,7 @@ const App = () => {
        <Experience />
        <Services />
        <Portfolio />
+      
        <Testimonial />
        <Contact />
        <Footer />
