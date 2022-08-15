@@ -13,9 +13,9 @@ const data = [
 
  { id: 1,
   image: IMG1,
-  tittle: 'This is My Project',
-  github: "https://github.com",
-  demo: "website.com"
+  tittle: 'Cube Runner 3D',
+  github: "bit.ly/cubeRunner",
+  demo: "https://simmer.io/@djdevilbeast/cube-runner"
  },
  { id: 2,
   image: IMG2,
