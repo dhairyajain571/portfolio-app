@@ -23,26 +23,25 @@ function About() {
           <article className='about__card'>
             <FaAward className='about__icon'/>
             <h5>Experience</h5>
-            <small>5+ months</small>
+            <small>4+ months</small>
           </article>
 
           <article className='about__card'>
             <FiUsers className='about__icon'/>
-            <h5>Clients</h5>
-            <small>300+ Worldwide</small>
+            <h5>Professional Connections</h5>
+            <small>400+ Worldwide</small>
           </article>
 
           <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
-            <small>8+ completed Projects</small>
+            <small>5+ completed Projects</small>
           </article>
         </div>
 
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates autem quae odit a,
-          sit vel mollitia eos quaerat aspernatur corrupti nihil ut optio rem quos ab recusandae
-          enim molestias natus.
+        Knowledgeable and detail-oriented developer accustomed to working in fast-paced and deadline-driven environments. 
+Currently working as an Assistant Project manager at ILIOS Health and also an Indie Game Developer on personal Unity 3D game projects like Endless Runner and other Adventurous Level-based Games.
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>

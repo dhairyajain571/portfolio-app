@@ -43,7 +43,35 @@ function Experience() {
             <article className='experience__details'>
                <BsPatchCheckFill className="experience__details-icon"/>
                <div>
-               <h4>Unity 3D</h4>
+               <h4>Node.js</h4>
+               <small className='text-light'>Experienced</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsPatchCheckFill className="experience__details-icon"/>
+               <div>
+               <h4>React.js</h4>
+               <small className='text-light'>Experienced</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsPatchCheckFill className="experience__details-icon"/>
+               <div>
+               <h4>Ruby</h4>
+               <small className='text-light'>Experienced</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsPatchCheckFill className="experience__details-icon"/>
+               <div>
+               <h4>Ruby on Rails</h4>
+               <small className='text-light'>Experienced</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsPatchCheckFill className="experience__details-icon"/>
+               <div>
+               <h4>Python</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
