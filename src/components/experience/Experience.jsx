@@ -80,39 +80,39 @@ function Experience() {
         </div>
       
         <div className="experience__backend">
-        <h3>Backend Development</h3>
+        <h3>Game Development</h3>
            <div className="experience__content">
             <article className='experience__details'>
                <BsPatchCheckFill className="experience__details-icon" />
                <div>
-               <h4>Node.js</h4>
+               <h4>Unity Engine</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
             <article className='experience__details'>
                <BsPatchCheckFill className="experience__details-icon" />
                <div>
-               <h4>MongoDB</h4>
+               <h4>Unity 3D</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
             <article className='experience__details'>
                <BsPatchCheckFill className="experience__details-icon" />
-               <div><h4>PHP</h4>
+               <div><h4>C#</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
             <article className='experience__details'>
                <BsPatchCheckFill  className="experience__details-icon"/>
                <div>
-               <h4>MySql</h4>
+               <h4>Web GL</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
             <article className='experience__details'>
                <BsPatchCheckFill  className="experience__details-icon"/>
                <div>
-               <h4>Python</h4>
+               <h4>2D Animation</h4>
                <small className='text-light'>Experienced</small> 
                </div>
             </article>
