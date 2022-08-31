@@ -9,7 +9,7 @@ import {BsInstagram} from 'react-icons/bs'
 function Footer() {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Dhairya</a>
+      <a href="#" className='footer__logo'>Dhairya Kumar Jain</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
@@ -23,10 +23,10 @@ function Footer() {
       
 
       <div className='footer__socials'>
-        <a href="https://instagram"><BsInstagram /></a>
-        <a href="https://linkedin"><BsLinkedin/></a>
-        <a href="https://github"><BsGithub/></a>
-        <a href="https://whatsapp"><BsWhatsapp/></a>
+        <a href="https://www.instagram.com/_dhairya__j?r=nametag"><BsInstagram /></a>
+        <a href="https://www.linkedin.com/in/dhairya-kumar-jain-3bb1b8203/"><BsLinkedin/></a>
+        <a href="https://github.com/dhairyajain571"><BsGithub/></a>
+        <a href="https://wa.me/qr/7PLAJWPG5HREF1"><BsWhatsapp/></a>
       </div>
 
       <div className="footer__copyright">
