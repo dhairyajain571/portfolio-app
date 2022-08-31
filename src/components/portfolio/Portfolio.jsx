@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/Rebel.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
@@ -13,9 +13,9 @@ const data = [
 
  { id: 1,
   image: IMG1,
-  tittle: 'Cube Runner 3D',
-  github: "bit.ly/cubeRunner",
-  demo: "https://simmer.io/@djdevilbeast/cube-runner"
+  tittle: 'Rebel Yell Website',
+  github: "https://github.com/dhairyajain571/project2021.git",
+  demo: "https://dhairyajain571.github.io/project2021/"
  },
  { id: 2,
   image: IMG2,

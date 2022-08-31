@@ -8,7 +8,7 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonial from './components/testimonials/Testimonial'
 import Footer from './components/footer/Footer'
 import Contact from './components/contact/Contact'
-import Games from './components/games/Games'
+
 
 
 const App = () => {
@@ -20,7 +20,6 @@ const App = () => {
        <Experience />
        <Services />
        <Portfolio />
-       <Games/>
        <Testimonial />
        <Contact />
        <Footer />

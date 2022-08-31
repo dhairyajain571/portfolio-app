@@ -5,81 +5,54 @@ import {BiCheck} from 'react-icons/bi'
 function Services() {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>What I Like</h5>
+      <h2>Achievements & Interests</h2>
 
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Non-Technical Skills</h3>
           </div>
           <ul className='service__list'>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Graphic Designing</p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Art & Sketching</p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Media Marketing</p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Critical & Analytical Thinking</p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Video Editing</p>
              </li>
            </ul>
         </article>
 
 
+      
         <article className='service'>
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Achievements</h3>
           </div>
           <ul className='service__list'>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Captain Cytron Club, Students' Council Year 20-21. </p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Core Coordinator- All India Level RTU Kota Hackathon 2021. </p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Team Leader - College Events Like Freshers, Farewell ,Gaming Tournaments and Annual Fest.</p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Member of Helping Hands Group NGO and Ideal Society. </p>
              </li>
              <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
-             </li>
-             <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
-             </li>
-           </ul>
-        </article>
-
-
-
-        <article className='service'>
-          <div className="service__head">
-            <h3>Game Development</h3>
-          </div>
-          <ul className='service__list'>
-             <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
-             </li>
-             <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
-             </li>
-             <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
-             </li>
-             <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
-             </li>
-             <li><BiCheck className='service__lis-icon' />
-             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+             <p>Volunteered Technical Fest Pryag</p>
              </li>
            </ul>
         </article>
