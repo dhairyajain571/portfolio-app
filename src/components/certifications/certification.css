@@ -1,0 +1,45 @@
+.certifications__container .container{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap:2rem;
+}
+
+.certification__card{
+ 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+}
+
+.certificate__image{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 1rem;
+    
+}
+
+.certificate__name{
+    text-align: center;
+
+}
+
+.certificate__btn{
+    height: 2rem;
+    
+    
+}
+
+.certification{
+    background-color: var(--color-bg-variant);
+    border-radius: 1rem;
+    padding: 1rem;
+    transition: var(--transition);
+    margin-top: 1rem;
+    border: 1px solid var(--color-bg-variant);
+}
+
+.certification:hover{
+    background-color: transparent;
+    transition: var(--transition);
+}
+
