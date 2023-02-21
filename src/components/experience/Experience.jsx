@@ -10,7 +10,7 @@ function Experience() {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-           <h3>Frontend Development</h3>
+           <h3>Frontend Development And Other Tech</h3>
            <div className="experience__content">
             <article className='experience__details'>
                <BsPatchCheckFill className="experience__details-icon"/>
@@ -23,6 +23,13 @@ function Experience() {
                <BsPatchCheckFill className="experience__details-icon"/>
                <div>
                <h4>CSS</h4>
+               <small className='text-light'>Experienced</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsPatchCheckFill className="experience__details-icon"/>
+               <div>
+               <h4>SalesForce</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
@@ -51,13 +58,6 @@ function Experience() {
                <BsPatchCheckFill className="experience__details-icon"/>
                <div>
                <h4>React.js</h4>
-               <small className='text-light'>Experienced</small>
-               </div>
-            </article>
-            <article className='experience__details'>
-               <BsPatchCheckFill className="experience__details-icon"/>
-               <div>
-               <h4>Ruby</h4>
                <small className='text-light'>Experienced</small>
                </div>
             </article>
